@@ -1,0 +1,98 @@
+.main_path{
+    padding-top: 15px;
+    height: 50px;
+    width: 100%;
+    border-bottom:  1px solid #ccc;
+    margin-bottom: 10px;
+}
+.main_content{
+    width: 79%;
+    float: right;
+    height: 2000px;
+    /* background: #00e6e6; */
+    padding-left: 15px;
+}
+.title_main_content{
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 10px;
+}
+.main_content li{
+	list-style-type: none;
+	margin-left: 15px;
+}
+.main_content p{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.main_content a {
+	color: #C8205F;
+}
+.main_content a:hover{
+	  text-decoration: none;
+}
+.main_content table{
+	width: 100%;
+	height: 500px;
+}
+
+table .title_table{
+	text-transform: uppercase;
+	font-weight: bold;
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	background-color: #C8205F;
+	color: #fff;
+	column-span: 8;
+}
+table .title_bonus{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #f60;
+	text-align: center;
+	width: 100%;
+	height: 35px;
+}
+table td{
+	border: 1px solid #ccc;
+	text-align: right;
+	height: 35px;
+	padding-right: 5px;
+}
+table .title_top{
+	text-align: center;
+	color: #C8205F;
+	font-weight: bold;
+	padding-top: 0px;
+}
+table .ten_sp{
+	text-align: center;
+	width: 100px;
+}
+table .quy_cach{
+	text-align: center;
+	width: 250px;
+}
+table .vdt{
+	width: 100px;
+	text-align: center;
+}
+
+/* #hddh{
+	width: 400px;
+	height: 40px;
+	padding-top: 7px;
+	margin: auto;
+	text-align: center;
+	background-color: #C8205F;
+	border-radius: 20px 20px 20px 20px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: bold;
+}
+#hddh a{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: bold;
+} */

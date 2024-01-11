@@ -1,0 +1,71 @@
+.thongtinchitiet{
+	height: 520px;
+	width: 100%;
+	/* background-color: #f60; */
+}
+.wrapper{
+	width: 50%;
+	margin-top: 10px;
+	height: 520px;
+	float: left;
+}
+.block {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.block__pic {
+    width: 440px;
+}
+.content_pro{
+	width: 50%;
+	height: 520px;
+	/* background-color: #ddd; */
+	float: left;
+	padding-left: 20px;
+}
+.title_pro_img{
+	font-size: 24px;
+}
+.star{
+	float: left;
+	color: #C8205F;
+	width: 130px;
+	border-right: 1px solid #C8205F;
+}
+.star img{
+	margin-top: -5px;
+	
+}
+.cmt{
+	padding-left: 10px;
+	color: #C8205F;
+	float: left;
+	width: 130px;
+	border-right: 1px solid #C8205F;
+}
+.ban{
+	padding-left: 10px;
+	color: #C8205F;
+	float: left;
+	width: 130px;
+}
+.cont{
+	margin-top: 50px;
+}
+.cont_left{
+		float: left;
+}
+.cont_right{
+	margin-left: 50px;
+	float: left;
+}
+
+
+
+
+
+
+
