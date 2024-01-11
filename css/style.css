@@ -100,3 +100,93 @@ ul{
     border-bottom: 1px solid #ccc;
     color: #C8205F;
 }
+
+.button1 {
+    background-color: #2240FF;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+    background-color: #13FDDE;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button3 {
+    background-color: #A4D748;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button5 {
+    background-color: #D50EDD;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button6 {
+    background-color: #dd5d0e;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button4 {
+    border-radius: 12px;
+    width: 130%;
+}
+.buttonSDT1{
+    margin-left: 20%;
+    margin-bottom: 20px;
+}
+.buttonSDT2 {
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
+.buttonSDT3 {
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
+.buttonSDT4 {
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
+.buttonSDT5 {
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
