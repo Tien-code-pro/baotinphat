@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="in-nhanh-in-ky-yeu.html">
+    <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="in-nhanh-hoa-don-order.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-hoa-don-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-hoa-don-order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_page/stand_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/product_page/stand_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-bao-gia-thiet-ke.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-bao-gia-thiet-ke.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-giay-op.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-giay-op.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-giay-anh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-li-xi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-li-xi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-lich-tet.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-lich-tet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-tap-chi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-tap-chi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-the-nhua.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-the-nhua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-thiep-cuoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-thiep-cuoi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-thung-caton.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-thung-caton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-tui.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-tui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-sach-tieng-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-sach-tieng-anh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-so-bia-da.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-so-bia-da.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705068475538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="in-nhanh-hoa-don-order.html">
+      <option name="closed" value="true" />
+      <created>1705072135330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705072135330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="in-nhanh-in-ky-yeu.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="in-nhanh-in-ky-yeu.html" />
+    <MESSAGE value="in-nhanh-hoa-don-order.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="in-nhanh-hoa-don-order.html" />
   </component>
 </project>
