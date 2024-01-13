@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="fix bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main_content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_content.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-lazer-inlazer.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-inlazer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-lazer-photo-kts.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-photo-kts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-lazer-scan.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-scan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-card.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/baotinphat/html/baotin_v2/product_page",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/baotinphat/html/baotin_v2/product_page&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\baotinphat\html\baotin_v2\product_page" />
@@ -58,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705023513780</updated>
       <workItem from="1705023515253" duration="122000" />
+      <workItem from="1705126145433" duration="6264000" />
     </task>
     <task id="LOCAL-00001" summary="in-nhanh-in-ky-yeu.html">
       <option name="closed" value="true" />
