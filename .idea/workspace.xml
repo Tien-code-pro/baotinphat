@@ -6,12 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="fix bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main_content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-lazer-inlazer.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-inlazer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-lazer-photo-kts.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-photo-kts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-lazer-scan.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-scan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-backlip.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-backlip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-bat-hiflex.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-bat-hiflex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-decal-oto.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-decal-oto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-decal-pp.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-decal-pp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-decal-trong.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-decal-trong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-lua-simili.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-lua-simili.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-nstandee.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-nstandee.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +64,7 @@
       <updated>1705023513780</updated>
       <workItem from="1705023515253" duration="122000" />
       <workItem from="1705126145433" duration="6264000" />
+      <workItem from="1705139818235" duration="5560000" />
     </task>
     <task id="LOCAL-00001" summary="in-nhanh-in-ky-yeu.html">
       <option name="closed" value="true" />
