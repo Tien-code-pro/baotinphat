@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="fix bug">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gia-cong-so-ma-vang.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-so-ma-vang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-boi-phomex.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-boi-phomex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-backlip.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-backlip.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-lazer-inlazer.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-inlazer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-thiep-moi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-thiep-moi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tat-ca-san-pham.html" beforeDir="false" afterPath="$PROJECT_DIR$/tat-ca-san-pham.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuyen-dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/tuyen-dung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/van-phong-pham-gay-xoan-oc.html" beforeDir="false" afterPath="$PROJECT_DIR$/van-phong-pham-gay-xoan-oc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/van-phong-pham-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/van-phong-pham-giay-anh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/van-phong-pham-vat-tu-ma-vang.html" beforeDir="false" afterPath="$PROJECT_DIR$/van-phong-pham-vat-tu-ma-vang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xxx-gia-cong-dong-bia-ngoai.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxx-gia-cong-dong-bia-ngoai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xxx-gia-cong-vao-keo-gay.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxx-gia-cong-vao-keo-gay.html" afterDir="false" />
-    </list>
+    <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="fix bug" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +28,8 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/baotinphat/html/baotin_v2/product_page",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
