@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="fix bug">
+    <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="IN KHỔ LỚN">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-backlip.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-backlip.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-bat-hiflex.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-bat-hiflex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-decal-oto.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-decal-oto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-decal-pp.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-decal-pp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-decal-trong.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-decal-trong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-lua-simili.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-lua-simili.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-nstandee.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-nstandee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia-cong-giay-khen-khung-tranh.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-giay-khen-khung-tranh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia-cong-so-ma-vang.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-so-ma-vang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-boi-phomex.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-boi-phomex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-can-lua-bong.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-can-lua-bong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/van-phong-pham-vat-tu-ma-vang.html" beforeDir="false" afterPath="$PROJECT_DIR$/van-phong-pham-vat-tu-ma-vang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,9 @@
       <updated>1705023513780</updated>
       <workItem from="1705023515253" duration="122000" />
       <workItem from="1705126145433" duration="6264000" />
-      <workItem from="1705139818235" duration="5560000" />
+      <workItem from="1705139818235" duration="6063000" />
+      <workItem from="1705161458876" duration="62000" />
+      <workItem from="1705204214344" duration="3686000" />
     </task>
     <task id="LOCAL-00001" summary="in-nhanh-in-ky-yeu.html">
       <option name="closed" value="true" />
@@ -98,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705081410963</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="IN KHỔ LỚN">
+      <option name="closed" value="true" />
+      <created>1705145470372</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705145470372</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +116,7 @@
     <MESSAGE value="in-nhanh-hoa-don-order.html" />
     <MESSAGE value="IN NHANH - IN OFFSET done" />
     <MESSAGE value="fix bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
+    <MESSAGE value="IN KHỔ LỚN" />
+    <option name="LAST_COMMIT_MESSAGE" value="IN KHỔ LỚN" />
   </component>
 </project>
