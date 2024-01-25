@@ -6,11 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="IN KHỔ LỚN">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia-cong-can-be.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-can-be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia-cong-dong-gay-xoan.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-dong-gay-xoan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia-cong-dong-kep-file.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-dong-kep-file.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia-cong-dong-quyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-dong-quyen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-boi-phomex.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-boi-phomex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-lazer-inlazer.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-inlazer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-giay-op.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-giay-op.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-hoa-don-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-hoa-don-order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-in-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-nhanh-in-catalogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-catalogue.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-in-decal-tem-nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-decal-tem-nhan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-giay-anh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-in-giay-khen.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-giay-khen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-in-ky-yeu.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-ky-yeu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in-nhanh-in-phong-bi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-phong-bi.html" afterDir="false" />
@@ -72,6 +79,7 @@
       <workItem from="1705204214344" duration="3686000" />
       <workItem from="1705560948823" duration="612000" />
       <workItem from="1705561579204" duration="3396000" />
+      <workItem from="1706153151456" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="in-nhanh-in-ky-yeu.html">
       <option name="closed" value="true" />
