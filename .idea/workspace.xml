@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef5e115-466d-49c2-8555-53400be09b8e" name="Changes" comment="IN KHỔ LỚN">
+      <change afterPath="$PROJECT_DIR$/images/home/Banner_gia_cong_đong_so_sach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/Banner_in_nhanh_in_offset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/Banner_pho_to_ky_thuat_so.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product/2.5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product/2.6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product/2.7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slider/005.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gia-cong-can-be.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-can-be.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gia-cong-dong-gay-xoan.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-dong-gay-xoan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gia-cong-dong-kep-file.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-dong-kep-file.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gia-cong-dong-quyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/gia-cong-dong-quyen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-boi-phomex.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-boi-phomex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-kl-in-mau-giay-anh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-lazer-inlazer.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-lazer-inlazer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-giay-op.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-giay-op.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-hoa-don-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-hoa-don-order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-catalogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-catalogue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-decal-tem-nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-decal-tem-nhan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-giay-khen.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-giay-khen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-ky-yeu.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-ky-yeu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-phong-bi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-phong-bi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-thiep-moi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-thiep-moi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-to-roi.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-to-roi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-nhanh-in-voucher.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-nhanh-in-voucher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/baotinphat/baotinphat&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/workVTC/gogotq.home",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\baotinphat\baotinphat\images\slider" />
+      <recent name="F:\baotinphat\baotinphat\images\home" />
+      <recent name="F:\baotinphat\baotinphat\images\logo" />
+      <recent name="F:\baotinphat\baotinphat\images\product" />
       <recent name="D:\baotinphat\html\baotin_v2\product_page" />
     </key>
   </component>
@@ -79,7 +74,10 @@
       <workItem from="1705204214344" duration="3686000" />
       <workItem from="1705560948823" duration="612000" />
       <workItem from="1705561579204" duration="3396000" />
-      <workItem from="1706153151456" duration="1325000" />
+      <workItem from="1706153151456" duration="18917000" />
+      <workItem from="1706577614461" duration="19283000" />
+      <workItem from="1706768815090" duration="595000" />
+      <workItem from="1707961919169" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="in-nhanh-in-ky-yeu.html">
       <option name="closed" value="true" />
