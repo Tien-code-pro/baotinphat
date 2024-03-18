@@ -1,8 +1,9 @@
-body{
+body {
     font-size: 16px;
     /* font-family: Arial, Helvetica, sans-serif; */
 }
-.header{
+
+.header {
     width: 100%;
     height: 150px;
     box-shadow: 0px 1px 8px #999;
@@ -11,85 +12,101 @@ body{
     z-index: 9999;
 }
 
-.main{
-  padding-top: 150px;
+.main {
+    padding-top: 150px;
 }
-.container{
+
+.container {
     max-width: 1180px;
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    
+
 }
-.contai_left{
+
+.contai_left {
     float: left;
     width: 19%;
     /* background: #47d147; */
 }
-.contai_riht{
+
+.contai_riht {
     float: right;
     width: 81%;
     /* background: #47d147; */
 }
-.hotline{
+
+.hotline {
     width: 100%;
-    height:50px;
+    height: 50px;
     /* background: #ff884d; */
 }
-#mennu_top{
+
+#mennu_top {
     width: 100%;
     height: 50px;
     padding-top: 19px;
     /* background-color: #f60; */
 }
-.banner{
+
+.banner {
     height: 1100px;
     margin-top: 40px;
     border-bottom: 2px solid #d9d9d9;
 }
-.banner1{
+
+.banner1 {
     float: left;
     width: 48%;
 }
-.banner2{
+
+.banner2 {
     float: right;
     width: 48%;
 }
-.banner3{
+
+.banner3 {
     margin-top: 25px;
     float: left;
     width: 30.666666666666%;
 }
-.banner4{
+
+.banner4 {
     margin-top: 25px;
     float: left;
     width: 30.666666666666%;
     margin: 25px 0 0 4%;
 }
-.banner5{
+
+.banner5 {
     margin-top: 25px;
     float: right;
     width: 30.666666666666%;
 }
-.title_banner{
+
+.title_banner {
     font-size: 24px;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
 }
-.slogan_banner{
+
+.slogan_banner {
     text-align: center;
 }
-.info_banner{
+
+.info_banner {
     background-color: #f60;
     width: 100%;
     height: 100%;
     /* display: none; */
 }
-ul{
+
+ul {
     margin-left: -40px;
 }
-.title_dat_hang{
+
+.title_dat_hang {
     width: 100%;
     padding-top: 25px;
     font-size: 150%;
@@ -114,8 +131,9 @@ ul{
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .button2 {
-    background-color: #13FDDE;
+    background-color: #C7215F;
     /* Green */
     border: none;
     color: white;
@@ -127,6 +145,7 @@ ul{
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .button3 {
     background-color: #A4D748;
     /* Green */
@@ -140,6 +159,7 @@ ul{
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .button5 {
     background-color: #D50EDD;
     /* Green */
@@ -153,6 +173,7 @@ ul{
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .button6 {
     background-color: #dd5d0e;
     /* Green */
@@ -166,26 +187,32 @@ ul{
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .button4 {
     border-radius: 12px;
     width: 130%;
 }
-.buttonSDT1{
+
+.buttonSDT1 {
     margin-left: 15%;
     margin-bottom: 20px;
 }
+
 .buttonSDT2 {
     margin-left: 5%;
     margin-bottom: 20px;
 }
+
 .buttonSDT3 {
     margin-left: 5%;
     margin-bottom: 20px;
 }
+
 .buttonSDT4 {
     margin-left: 5%;
     margin-bottom: 20px;
 }
+
 .buttonSDT5 {
     margin-left: 5%;
     margin-bottom: 20px;
